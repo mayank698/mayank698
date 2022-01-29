@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN stack, Next Js, React js
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me through my email mpandeymp0@gmail.com
+- 📫 Reach me through my email: mpandeymp0@gmail.com
 
 <!---
 mayank698/mayank698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
