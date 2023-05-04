@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Pandey
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack, Next Js, React js
+- 🌱 I’m have learned MERN stack, Next Js and React js
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me through my email: mpandeymp0@gmail.com
 
