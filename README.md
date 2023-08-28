@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Pandey
-- 👀 I’m interested in web development
-- 🌱 I’m have learned MERN stack, Next Js and React js
+- 👀 I’m interested in cyber security and penetration testing.
+- 🌱 I’m have learned MERN stack, cyber security and tools requried for cyber security.
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me through my email: mpandeymp0@gmail.com
 
