@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Pandey
-- 👀 I’m interested in cyber security and penetration testing.
-- 🌱 I’m have learned MERN stack, cyber security and tools requried for cyber security.
+- 👀 I’m interested in cyber security.
+- 🌱 I’m have learned MERN stack, cyber security both offensive and defensive.
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me through my email: mpandeymp0@gmail.com
 
