@@ -2,7 +2,6 @@
 - 👀 I’m interested in cyber security.
 - 🌱 I’m have learned MERN stack, cyber security both offensive and defensive.
 - 💞️ I’m looking to collaborate on projects
-- 📫 Reach me through my email: mpandeymp0@gmail.com
 
 <!---
 mayank698/mayank698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
