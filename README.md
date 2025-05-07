@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Pandey
 - 👀 I’m interested in cyber security.
-- 🌱 I’m have learned MERN stack, cyber security both offensive and defensive.
+- 🌱 I have learned Python development and cyber security both offensive and defensive.
 - 💞️ I’m looking to collaborate on projects
 
 <!---
